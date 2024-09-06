@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\controllers\\adnimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\controllers\\adnimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\views\\auth\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\views\\adnim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\views\\adnim\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|c:\\users\\dell\\documents\\project\\eproject_ncs\\eproject_ncs\\models\\nexuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE19D1CF-97DC-4601-8140-493D6E66217D}|Eproject_NCS\\Eproject_NCS.csproj|solutionrelative:eproject_ncs\\models\\nexuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Eproject_NCS\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAgwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T10:20:23.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdnimController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Controllers\\AdnimController.cs",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Controllers\\AdnimController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Controllers\\AdnimController.cs",
+              "RelativeToolTip": "Eproject_NCS\\Controllers\\AdnimController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwB0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:25:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Eproject_NCS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGoBAAAAAAAAAAAgwIQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T10:58:37.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Eproject_NCS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T10:56:02.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Eproject_NCS\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwD0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:19:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Adnim\\Index.cshtml",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Views\\Adnim\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Adnim\\Index.cshtml",
+              "RelativeToolTip": "Eproject_NCS\\Views\\Adnim\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T10:25:16.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Auth\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Views\\Auth\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Auth\\Signup.cshtml",
+              "RelativeToolTip": "Eproject_NCS\\Views\\Auth\\Signup.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T11:05:11.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Eproject_NCS\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:06:57.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "Eproject_NCS\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T10:28:05.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Program.cs",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Program.cs",
+              "RelativeToolTip": "Eproject_NCS\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:45:15.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NexusContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Models\\NexusContext.cs",
+              "RelativeDocumentMoniker": "Eproject_NCS\\Models\\NexusContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Project\\Eproject_NCS\\Eproject_NCS\\Models\\NexusContext.cs",
+              "RelativeToolTip": "Eproject_NCS\\Models\\NexusContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T10:40:38.315Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
