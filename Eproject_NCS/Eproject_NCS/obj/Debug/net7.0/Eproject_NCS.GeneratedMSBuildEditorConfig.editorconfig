@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\DELL\Documents\Project\Eproject_NCS\Eproject_NCS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DELL/Documents/Project/Eproject_NCS/Eproject_NCS/Views/Adnim/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRuaW1cSW5kZXguY3NodG1s
+[C:/Users/DELL/Documents/Project/Eproject_NCS/Eproject_NCS/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DELL/Documents/Project/Eproject_NCS/Eproject_NCS/Views/Auth/Login.cshtml]
